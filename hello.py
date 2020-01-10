@@ -1,4 +1,6 @@
-
+# Learn Python in 2020 
+# By Michael Nicastro
+#######################
 import os
 os.system('clear')
 
